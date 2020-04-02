@@ -17,4 +17,4 @@ class Government:
 
 if __name__ == '__main__':
     gov = Government()
-    print(gov.fetch_two_masks(100000000000))
+    print(gov.distribute_two_masks(100000000000))
